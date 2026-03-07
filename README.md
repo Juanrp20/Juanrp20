@@ -61,14 +61,6 @@ Se realizaron múltiples ejecuciones con arreglos de distintos tamaños para eva
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juanrp20&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanrp20&layout=compact&theme=tokyonight)
-
----
-
 ## 📚 Actualmente aprendiendo
 
 * Mejores prácticas de desarrollo de software
