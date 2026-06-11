@@ -35,7 +35,7 @@ Me gusta aprender constantemente nuevas herramientas, construir proyectos y mejo
 - Microsoft SQL Server
 
 🔧 Herramientas
-- Git & GitHub
+- GitHub
 ```
 
 ---
@@ -58,14 +58,6 @@ Estudio comparativo desarrollado en Java para analizar el consumo de memoria y r
 MergeSort, QuickSort, CountingSort y RadixSort.
 
 Se realizaron múltiples ejecuciones con arreglos de distintos tamaños para evaluar su escalabilidad y eficiencia, concluyendo que QuickSort presentó el menor consumo de memoria en promedio.
-
----
-
-## 📚 Actualmente aprendiendo
-
-* Mejores prácticas de desarrollo de software
-* Estructuras de datos y algoritmos
-* Desarrollo de proyectos más complejos
 
 ---
 
